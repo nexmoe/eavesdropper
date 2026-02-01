@@ -1,4 +1,4 @@
-from record_mic_24h import main
+from .record_eve_24h import main
 
 
 if __name__ == "__main__":
